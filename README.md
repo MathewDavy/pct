@@ -1,0 +1,2 @@
+- A little playwright test that runs a github actions cron job to notify me if a pacific crest trail permit becomes available.
+- You can run it locally by first installing playwright with `npx playwright install` and then `npx playwright test`
